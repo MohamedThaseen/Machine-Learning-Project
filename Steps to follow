@@ -1,6 +1,6 @@
-Step 1 :
-Step 2 :
-Step 3 :
-Step 4 :
-Step 5 :
-Step 6 :
+Step 1 : Create a new jupiter notebook file
+Step 2 : Impot pandas and numpy accordingly
+Step 3 : Copy the file address from your pc
+Step 4 : Import the pd.read_csv formula and paste the file address inside the paranthesis
+Step 5 : Put the address inside the quotation andwrite the .head function to view the file
+Step 6 : Save the file and upload it to the project panel
