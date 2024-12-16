@@ -1,0 +1,5 @@
+The pd.csv() function also offers various parameters to customized how to read the file such as
+   specifing delimiters
+   headling headers
+   managing missing values
+making it versatile tool for loading data from .csv file 
